@@ -31,7 +31,7 @@ by that project's `scripts/publish_gallery.py` after `scripts/render_gallery.py`
 the stills. Edit the project, not this copy.
 
 `vendor/d3.min.js` is D3 7.9.0 (ISC licence, `vendor/D3-LICENSE.txt`). `vendor/subscout/`
-holds the colour tokens and base styles of [SubScout](https://github.com/AdmcCarthy/kit-subscout),
+holds the colour tokens and base styles of [SubScout](https://github.com/AdmcCarthy/core-subscout),
 copied unchanged (MIT License with Acknowledgement; the colour method follows the Equinor
 Design System palette generator, MIT).
 
