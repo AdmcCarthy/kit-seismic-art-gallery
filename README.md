@@ -1,5 +1,7 @@
 # seismic_art gallery
 
+[![Licence](https://img.shields.io/badge/licence-MIT%20with%20acknowledgement-lightgrey)](LICENSE)
+
 **Seismic amplitude as art, from a model and from the Volve field.**
 
 A gallery of stills, each opening the live D3 sketch it was taken from: rings, waveform
